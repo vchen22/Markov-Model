@@ -1,5 +1,5 @@
 
-Program Desciption
+Program Desciption:
 This program generates texts based on what it predicts the following
 word or character should occur next. To first get the prediction, the 
 program reads a text file and creates a database that counts the number 
